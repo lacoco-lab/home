@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Michael Hahn
+title: Xinting Huang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Michael
-last_name: Hahn
+first_name: Xinting
+last_name: Huang
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Assistant Professor
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.uds.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: blabla
+bio: M.Sc., University of Copenhagen; B.Sc., Sun Yat-Sen University
 
 # Interests to show in About widget
 interests:
@@ -114,7 +114,7 @@ social:
 
 
 user_groups:
-  - Principal Investigator
+  - Graduate Students
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

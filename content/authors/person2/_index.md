@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Michael Hahn
+title: Kate McCurdy
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Michael
-last_name: Hahn
+first_name: Kate
+last_name: McCurdy
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Assistant Professor
@@ -114,7 +114,7 @@ social:
 
 
 user_groups:
-  - Principal Investigator
+  - Postdocs
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
