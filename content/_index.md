@@ -214,13 +214,14 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+      title: Joining the Lab
+      text: If you're interested in joining
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
 #  - block: tag_cloud
 #    content:
 #      title: Popular Topics
