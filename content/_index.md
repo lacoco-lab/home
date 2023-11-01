@@ -178,14 +178,25 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+#  - block: markdown
+#    content:
+#      title: Gallery
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="demo" >}}
+#    design:
+#      columns: '1'
+  - block: collection
+    id: people
     content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      title: People 
+      filters:
+        folders:
+          - authors
+        featured_only: false
     design:
-      columns: '1'
+      columns: '2'
+      view: card
   - block: collection
     id: featured
     content:
