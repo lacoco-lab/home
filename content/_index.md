@@ -193,10 +193,8 @@ sections:
       filters:
         folders:
           - authors
-        featured_only: false
     design:
       columns: '2'
-      view: card
   - block: collection
     id: featured
     content:
