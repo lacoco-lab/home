@@ -116,6 +116,11 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+
+user_groups:
+  - Researchers
+  - Visitors
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
