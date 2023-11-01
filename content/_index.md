@@ -48,11 +48,12 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
-          - Postdocs
-          - Graduate Students
-          - Administration
-          - Visitors
+      #    - Principal Investigator
+      #    - Postdocs
+      #    - Graduate Students
+      #    - Masters Students
+      #    - Administration
+      #    - Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
