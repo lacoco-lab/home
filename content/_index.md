@@ -48,12 +48,12 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-      #    - Principal Investigator
-      #    - Postdocs
-      #    - Graduate Students
-      #    - Masters Students
-      #    - Administration
-      #    - Visitors
+          - Principal Investigator
+          - Researchers
+  #        - Graduate Students
+ #         - Masters Students
+#          - Administration
+          - Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
@@ -245,18 +245,18 @@ sections:
     id: talks
     content:
       title: Joining the Lab
-      text: If you're interested in joining
+      text: If you're interested in joining, please do not hesitate to contact us at mhahn@lst.uni-saarland.de
       filters:
         folders:
-          - event
+          - events
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#  - block: tag_cloud
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
 #  - block: contact
 #    id: contact
 #    content:
