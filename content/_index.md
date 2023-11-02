@@ -234,7 +234,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: Winter 2023/24 Seminar [Language Models as Cognitive Models](../courses/langmod-cogmod-2023/) (Kate McCurdy). Winter 2023/24  [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss23/) (Michael Hahn). 
+      text: Winter 2023/24 Seminar [Language Models as Cognitive Models](../courses/langmod-cogmod-2023/) (Kate McCurdy). <br> Winter 2023/24  [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss23/) (Michael Hahn). 
       filters:
         folders:
           - events
