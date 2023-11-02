@@ -25,7 +25,8 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO short bio.<br> Personal website: https://kmccurdy.github.io/
+bio: TODO short bio.
+#<br> Personal website: https://kmccurdy.github.io/
 
 # Interests to show in About widget
 interests:
