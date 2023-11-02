@@ -25,7 +25,7 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.Sc., University of Copenhagen; B.Sc., Sun Yat-Sen University
+bio: TODO short bio
 
 # Interests to show in About widget
 interests:
@@ -35,9 +35,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc
-      institution: University of Copenhagen
+    - course: M.Sc.
+      institution: TODO
       year: 2023
+    - course: B.Sc.
+      institution: TODO
+      year: 2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
