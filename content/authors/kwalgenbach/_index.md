@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Xinting Huang
+title: Karina Walgenbach
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Xinting
-last_name: Huang
+first_name: Karina
+last_name: Walgenbach
 
 # Status emoji
 status:
@@ -17,27 +17,17 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Administration
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Saarland University
-    url: https://www.uds.edu/
+    url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.Sc., University of Copenhagen; B.Sc., Sun Yat-Sen University
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - NLP
-  - Cognition
 
-# Education to show in About widget
-education:
-  courses:
-    - course: MSc
-      institution: University of Copenhagen
-      year: 2023
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -89,7 +79,7 @@ social:
     link: '/#contact'
 #  - icon: twitter
 #    icon_pack: fab
-#    link: https://twitter.com/m-hahn
+#    link: https://twitter.com/GeorgeCushen
 #    label: Follow me on Twitter
 #    display:
 #      header: true
@@ -98,7 +88,7 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/m-hahn
+#    link: https://github.com/gcushen
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
@@ -107,11 +97,12 @@ social:
   # and uncomment the lines below.
 #  - icon: cv
 #    icon_pack: ai
-#    link: uploads/cv-hahn.pdf
+#    link: uploads/resume.pdf
 
 
 user_groups:
-  - Researchers
+  - Administration
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
