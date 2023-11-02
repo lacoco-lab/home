@@ -234,7 +234,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: Winter #<ul><li>Winter 2023/24: Seminar: <a href="https://lacoco-lab.github.io/courses/langmod-cogmod-2023/">Language Models as Cognitive Models</a> (taught by Kate McCurdy)</li><li>Winter 2023/24: <a href="https://cms.sic.saarland/fof_math_ss23/">Foundations of Mathematics</a></li></ul>
+      text: - Winter 2023/24: Seminar: [Language Models as Cognitive Models](https://lacoco-lab.github.io/courses/langmod-cogmod-2023/)  #<ul><li>Winter 2023/24: Seminar: <a href="https://lacoco-lab.github.io/courses/langmod-cogmod-2023/">Language Models as Cognitive Models</a> (taught by Kate McCurdy)</li><li>Winter 2023/24: <a href="https://cms.sic.saarland/fof_math_ss23/">Foundations of Mathematics</a></li></ul>
       filters:
         folders:
           - events
