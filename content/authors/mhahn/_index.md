@@ -25,7 +25,7 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Michael is an an Assistant Professor (W2) at the Department of Language Science and Technology at Saarland University, part of Saarland Informatics Campus, where he holds the Chair for Language, Computation, and Cognition. He received his PhD from Stanford University in 2022, advised by Judith Degen and Dan Jurafsky. He is interested in natural language processing (NLP) and computational cognitive science. 
+bio: TODO short bio
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ user_groups:
 highlight_name: true
 ---
 
-blabla
+Michael is an an Assistant Professor (W2) at the Department of Language Science and Technology at Saarland University, part of Saarland Informatics Campus, where he holds the Chair for Language, Computation, and Cognition. He received his PhD from Stanford University in 2022, advised by Judith Degen and Dan Jurafsky. He is interested in natural language processing (NLP) and computational cognitive science.
 {style="text-align: justify;"}

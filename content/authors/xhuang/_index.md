@@ -120,5 +120,5 @@ user_groups:
 highlight_name: true
 ---
 
-blabla
+Xinting is a PhD student in the lab.
 {style="text-align: justify;"}

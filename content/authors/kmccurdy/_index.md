@@ -26,7 +26,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: TODO short bio.
-#<br> Personal website: https://kmccurdy.github.io/
 
 # Interests to show in About widget
 interests:
@@ -118,5 +117,8 @@ user_groups:
 highlight_name: true
 ---
 
-blabla
+Kate is a postdoctoral researcher in the lab.
+
+Personal website: https://kmccurdy.githb.io/
+
 {style="text-align: justify;"}
