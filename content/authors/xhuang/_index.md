@@ -29,8 +29,8 @@ bio: TODO short bio
 
 # Interests to show in About widget
 interests:
-  - NLP
-  - Cognition
+  - TODO
+  - TODO
 
 # Education to show in About widget
 education:
