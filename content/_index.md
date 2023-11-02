@@ -5,6 +5,17 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: collection
+    id: about
+    content:
+      title: Teaching
+      text: We are a group of researchers investigating the intersection of natural language, computation, and human cognition.<br>Our research studies
+      filters:
+        folders:
+          - events
+    design:
+      columns: '2'
+      view: compact
 #  - block: about
 #    id: about
 #    content:
