@@ -119,6 +119,6 @@ highlight_name: true
 
 Kate is a postdoctoral researcher in the lab.
 
-Personal website: https://kmccurdy.githb.io/
+Personal website: https://kmccurdy.github.io/
 
 {style="text-align: justify;"}
