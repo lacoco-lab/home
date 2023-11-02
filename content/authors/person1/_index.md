@@ -114,7 +114,7 @@ social:
 
 
 user_groups:
-  - Site Admin
+  - Principal Investigator
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
