@@ -25,21 +25,23 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO short bio
+bio: PhD student
 
 # Interests to show in About widget
 interests:
-  - TODO
-  - TODO
+- Analyzing and interpreting neural language models
+- Knowledge representation in LLMs
+- Unsupervised NLP
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.Sc.
-      institution: TODO
+    - course: M.Sc. IT and Cognition
+      institution: University of Copenhagen
       year: 2023
-    - course: B.Sc.
-      institution: TODO
+    - course: B.Sc. Intelligence Science and Technology
+      institution: Sun Yat-sen University
       year: 2021
 
 # Skills
@@ -120,5 +122,6 @@ user_groups:
 highlight_name: true
 ---
 
-Xinting is a PhD student in the lab.
+I'm a PhD student with a background in computer science and little bit of cognitive science. I'm broadly interested in Machine Learning and Natural Language Processing. For now, my research mainly lie in interpretability of neural language models. 
+
 {style="text-align: justify;"}
