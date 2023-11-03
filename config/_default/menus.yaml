@@ -27,7 +27,7 @@ main:
     weight: 60
   - name: Joining
     url: '#joining'
-    weight: 60
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
