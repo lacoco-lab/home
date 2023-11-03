@@ -260,7 +260,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: talks
+    id: joining
     content:
       title: Joining the Lab
       text: If you're interested in joining, please do not hesitate to contact us at mhahn@lst.uni-saarland.de
