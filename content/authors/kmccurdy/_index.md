@@ -25,12 +25,12 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO short bio.
+bio: Postdoctoral Researcher
 
 # Interests to show in About widget
-interests:
-  - TODO
-  - TODO
+#interests:
+#  - TODO
+#  - TODO
 
 # Education to show in About widget
 education:
