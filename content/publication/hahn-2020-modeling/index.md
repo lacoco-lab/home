@@ -33,4 +33,7 @@ abstract: 'Memory limitations are known to constrain language comprehension and 
   via highly generic cognitively motivated principles and lend support to efficiency-based
   models of the structure of human language.'
 url_pdf: files/hahn_psychreview_2021_final.pdf
+links:
+ - name: Code
+   url: https://github.com/m-hahn/memory-surprisal
 ---

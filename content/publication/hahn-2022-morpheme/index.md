@@ -27,4 +27,6 @@ links:
 - name: URL
   url: 
     https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00051/109033/Morpheme-Ordering-Across-Languages-Reflects
+- name: Code
+  url: https://github.com/beckymathew/morpheme-ordering
 ---
