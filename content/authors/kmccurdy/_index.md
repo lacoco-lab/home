@@ -117,7 +117,7 @@ user_groups:
 highlight_name: true
 ---
 
-Kate is a postdoctoral researcher in the lab.
+Kate is a postdoctoral researcher in the lab. She recently completed her PhD in the School of Informatics, University of Edinburgh. Kate has also studied at McGill and Potsdam, worked as a researcher at Microsoft and Harvard, and founded the computational linguistics engineering team in the language-learning startup Babbel. She is broadly interested in linguistic cognition: how humans manage the trade-off between predictability and variation in language processing, and how this can be computationally modeled. Her particular focus is on speaker generalization in lower-level linguistic domains (e.g. prosody, inflectional morphology), and how these phenomena interact with higher-level syntactic and semantic processing.
 
 Personal website: https://kmccurdy.github.io/
 
