@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yash Sarrof 
+title: Mark Rofin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Yash
-last_name: Sarrof
+first_name: Mark
+last_name: Rofin
 
 # Status emoji
 status:
@@ -25,11 +25,11 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student
+bio: MSc Student
 
 # Interests to show in About widget
-#interests:
-#- Analyzing and interpreting neural language models
+interests:
+- Analyzing and interpreting neural language models
 #- Knowledge representation in LLMs
 #- Unsupervised NLP
 
@@ -119,15 +119,12 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Master's student in the Language Science and Technology department at Saarland University.  I completed my undergrad in 2020, majoring in Computer Science at Manipal Institute of Technology, India. After internships in Novartis and Samsung, I joined Glib.ai as a Machine Learning Engineer and worked there for 3 years.
+iMark is a research assistant in the lab and a Master's student in Language Science and Technology. He is currently focused on theoretical analysis of Transformers.
 
-My research interest lies in delving deep into the workings of LLMs and finding potential areas of improvements. I believe there is potential in using linguistic tricks to inject worldly knowledge into LLMs, to lower training costs and data requirements, all the while increasing reliability and control. I am equally fascinated by the evolution and acquisition of language in humans and actively follow the latest discourse on the same.
+Personal website: https://markfryazino.github.io/.
 
-Important Links
-- Personal Website - yashsarrof.com
-- Linkedin - https://www.linkedin.com/in/yash-sarrof-094364142/
-- Github - https://github.com/yashYRS
-- Twitter - https://twitter.com/yashYRS
-- Email - yashsarrof@outlook.com
+Education:
+
+B.Sc. in Computer Science,  2023 (Higher School of Economics); M.Sc. in Computational Linguistics, Currently pursuing (Saarland University)
 
 {style="text-align: justify;"}
