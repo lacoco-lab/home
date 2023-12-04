@@ -38,8 +38,9 @@ interests:
 education:
   courses:
     - course: B.Sc. Computer Science
-      institution: Manipal Institute of Technology
-      year: 2020
+      institution: Higher School of Economics 
+      year: 2023
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -123,8 +124,5 @@ iMark is a research assistant in the lab and a Master's student in Language Scie
 
 Personal website: https://markfryazino.github.io/.
 
-Education:
-
-B.Sc. in Computer Science,  2023 (Higher School of Economics); M.Sc. in Computational Linguistics, Currently pursuing (Saarland University)
 
 {style="text-align: justify;"}
