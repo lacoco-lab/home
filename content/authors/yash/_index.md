@@ -124,7 +124,7 @@ I am a Master's student in the Language Science and Technology department at Saa
 My research interest lies in delving deep into the workings of LLMs and finding potential areas of improvements. I believe there is potential in using linguistic tricks to inject worldly knowledge into LLMs, to lower training costs and data requirements, all the while increasing reliability and control. I am equally fascinated by the evolution and acquisition of language in humans and actively follow the latest discourse on the same.
 
 Important Links
-* Personal Website - yashsarrof.com
+* Personal Website - https://www.yashsarrof.com
 * Linkedin - https://www.linkedin.com/in/yash-sarrof-094364142/
 * Github - https://github.com/yashYRS
 * Twitter - https://twitter.com/yashYRS
