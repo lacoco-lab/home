@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mark Rofin
+title: Sasha Bakalova
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Mark
-last_name: Rofin
+first_name: Sasha
+last_name: Bakalova
 
 # Status emoji
 status:
@@ -120,9 +120,8 @@ user_groups:
 highlight_name: true
 ---
 
-Mark is a research assistant in the lab and a Master's student in Language Science and Technology. He is currently focused on theoretical analysis of Transformers.
+I've completed my bachelors in computer science and machine learning at HSE University in Moscow, and currently I'm studying towards a masters degree in language science and technology. My research interests lie in the area of understanding the inner workings of large language models.
 
-Personal website: https://markfryazino.github.io/.
 
 
 {style="text-align: justify;"}
