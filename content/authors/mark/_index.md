@@ -28,8 +28,8 @@ organizations:
 bio: MSc Student
 
 # Interests to show in About widget
-interests:
-- Analyzing and interpreting neural language models
+#interests:
+#- Analyzing and interpreting neural language models
 #- Knowledge representation in LLMs
 #- Unsupervised NLP
 
