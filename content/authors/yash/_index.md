@@ -37,7 +37,7 @@ bio: PhD student
 # Education to show in About widget
 education:
   courses:
-    - course: B.Sc. Computer Science
+    - course: B. Tech Computer Science
       institution: Manipal Institute of Technology
       year: 2020
 
