@@ -3,8 +3,8 @@ title: A unifying theory explains seemingly contradicting biases in perceptual e
 authors:
 - Michael Hahn
 - Xue-Xin Wei
-date: 2024
-publishDate: 2024
+date: '2024-01-01'
+publishDate: '2024-01-01T19:18:58.607378Z'
 publication_types:
 - article-journal
 publication: 'Nature Neuroscience (In Press)'
