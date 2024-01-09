@@ -3,11 +3,11 @@ title: A unifying theory explains seemingly contradicting biases in perceptual e
 authors:
 - Michael Hahn
 - Xue-Xin Wei
-date: In Press
+date: 2024
 publishDate: '2024'
 publication_types:
 - article-journal
-publication: 'Nature Neuroscience'
+publication: 'Nature Neuroscience (In Press)'
 abstract: 'Perceptual biases are widely regarded as a window into the computational principles underlying human perception. To understand these biases, previous work has proposed a number of conceptually different and even seemingly contradicting ingredients, including attraction to a Bayesian prior, repulsion from the prior due to efficient coding, and central tendency effects on a bounded range. We present a unifying Bayesian theory of biases in perceptual estimation. We theoretically demonstrate an additive decomposition of perceptual biases into attraction to a prior, repulsion away from regions with high encoding precision, and regression away from the boundary. The results reveal a simple and universal rule for predicting the direction of perceptual biases. Our theory accounts for, and leads to new understandings of biases in the perception of a variety of stimulus attributes, including orientation, color, and magnitude.'
 links:
 - name: URL
