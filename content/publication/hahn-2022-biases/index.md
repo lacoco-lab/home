@@ -1,5 +1,5 @@
 ---
-title: A unifying theory explains seemingly contradicting biases in perceptual estimation
+title: A unifying theory explains seemingly contradictory biases in perceptual estimation
 authors:
 - Michael Hahn
 - Xue-Xin Wei
