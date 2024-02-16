@@ -9,5 +9,6 @@ publication_types:
 - article-journal
 publication: '*arXiv Preprint*'
 - name: URL
-  url: https://arxiv.org/abs/2402.09963
+  url: 
+    https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00403/106992/Sensitivity-as-a-Complexity-Measure-for-Sequence
 ---
