@@ -16,4 +16,6 @@ links:
   url: https://www.biorxiv.org/content/10.1101/2022.12.12.519538v1
 - name: Code
   url: https://gitlab.com/m-hahn/unifying-theory-biases
+- name: News
+  url: https://www.golem.de/news/gehirn-und-mathematik-besser-erinnern-durch-systematische-erinnerungsfehler-2402-182336.html
 ---
