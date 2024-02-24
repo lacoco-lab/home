@@ -236,6 +236,7 @@ sections:
   - block: collection
     id: featured
     content:
+      count: '20'
       title: Recent Publications
 #      text: |-
 #        {{% callout note %}}
