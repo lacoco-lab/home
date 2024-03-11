@@ -253,7 +253,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: Summer 2024 Seminar [Probing and Analyzing Neural Language Models](../courses/probing-2024/) (Xinting Huang). <br> Summer 2024 Seminar [Aligning Language Models with Human Preferences, Methods and Challenges](../courses/alignment-2024/) (Michael Hahn). <br> Summer 2024 Seminar [Neural Networks in Brains and Computers](../courses/brain-2024/) (Michael Hahn). <br> Winter 2023/24 Seminar [Language Models as Cognitive Models](../courses/langmod-cogmod-2023/) (Kate McCurdy). <br> Winter 2023/24  [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss23/) (Michael Hahn). 
+      text: Every semester, we organize a range of graduate-level seminars where we read current research papers.<br><br>Summer 2024 Seminar [Probing and Analyzing Neural Language Models](../courses/probing-2024/) (Xinting Huang). <br> Summer 2024 Seminar [Aligning Language Models with Human Preferences, Methods and Challenges](../courses/alignment-2024/) (Michael Hahn). <br> Summer 2024 Seminar [Neural Networks in Brains and Computers](../courses/brain-2024/) (Michael Hahn). <br> Winter 2023/24 Seminar [Language Models as Cognitive Models](../courses/langmod-cogmod-2023/) (Kate McCurdy). <br> Winter 2023/24  [Foundations of Mathematics](https://cms.sic.saarland/fof_math_ss23/) (Michael Hahn). 
       filters:
         folders:
           - events
