@@ -124,4 +124,6 @@ highlight_name: true
 
 I'm a PhD student with a background in computer science and cognitive science. I'm broadly interested in Machine Learning and Natural Language Processing. For now, my research mainly lies in interpretability of neural language models. 
 
+Email address: xhuang@lst.uni-saarland.de
+
 {style="text-align: justify;"}
