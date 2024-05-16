@@ -1,5 +1,5 @@
 ---
-title: More frequent verbs are associated with more diverse valency frames: Efficient language design at the lexicon-grammar interface
+title: 'More frequent verbs are associated with more diverse valency frames: Efficient language design at the lexicon-grammar interface'
 authors:
 - Siyu Tao
 - Lucia Donatelli
