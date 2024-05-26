@@ -18,4 +18,10 @@ links:
   url: https://doi.org/10.1073/pnas.2122602119
 - name: Code
   url: https://gitlab.com/m-hahn/resource-rational-surprisal
+- name: OSF
+  url: https://osf.io/sjwq2
+- name: Zenodo (Model)
+  url: https://zenodo.org/records/6602698
+- name: Zenodo (Predictions)
+  url: https://zenodo.org/records/6988696
 ---
