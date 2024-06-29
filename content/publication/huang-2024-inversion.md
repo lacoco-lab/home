@@ -9,7 +9,7 @@ date: '2024'
 publishDate: '2024-02-15T19:18:58.750866Z'
 publication_types:
 - paper-conference
-publication: '*arXiv Preprint.*'
+publication: 'Mechanistic Interpretability Workshop 2024 at ICML 2024 (oral)'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2405.17653
