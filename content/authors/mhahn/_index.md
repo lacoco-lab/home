@@ -33,14 +33,14 @@ interests:
   - Cognition
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Linguistics
-      institution: Stanford University
-      year: 2022
-    - course: MSc in Mathematics
-      institution: University of Tuebingen
-      year: 2015
+#education:
+#  courses:
+#    - course: PhD in Linguistics
+#      institution: Stanford University
+#      year: 2022
+#    - course: MSc in Mathematics
+#      institution: University of Tuebingen
+#      year: 2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,7 +120,7 @@ user_groups:
 highlight_name: true
 ---
 
-Michael is an an Assistant Professor (W2) at the Department of Language Science and Technology at Saarland University, part of Saarland Informatics Campus, where he holds the Chair for Language, Computation, and Cognition. He received his PhD from Stanford University in 2022, advised by Judith Degen and Dan Jurafsky. He is interested in natural language processing (NLP) and computational cognitive science.
+Michael holds the Chair for Language, Computation, and Cognition at Saarland University. He received his PhD from Stanford University in 2022, advised by Judith Degen and Dan Jurafsky. He is interested in language, machine learning, and computational cognitive science.
 {style="text-align: justify;"}
 
 Personal website: https://www.mhahn.info/
