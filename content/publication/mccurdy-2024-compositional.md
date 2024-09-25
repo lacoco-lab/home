@@ -1,5 +1,5 @@
 ---
-title: Toward Compositional Behavior in Neural Models: A Survey of Current Views
+title: 'Toward Compositional Behavior in Neural Models: A Survey of Current Views'
 authors:
 - Kate McCurdy
 - Paul Soulos
