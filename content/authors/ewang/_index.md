@@ -112,7 +112,6 @@ user_groups:
 highlight_name: true
 ---
 
-I am a now Master’s student of LST at Saarland University. I have completed my Bachelor's degree in computer science at Harbin Institute of Technology, Shenzhen.
-I'm interested in NLP and Embodied intelligence.
+I am now a Master’s student of LST at Saarland University. I have completed my Bachelor's degree in computer science at Harbin Institute of Technology, Shenzhen. I'm interested in NLP and Embodied intelligence.
 
 {style="text-align: justify;"}
