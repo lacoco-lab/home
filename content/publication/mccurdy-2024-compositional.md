@@ -5,7 +5,7 @@ authors:
 - Paul Soulos
 - Paul Smolensky
 date: '2024'
-publishDate: '2024-11'
+publishDate: '2024-10-03T19:18:58.750866Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*'
