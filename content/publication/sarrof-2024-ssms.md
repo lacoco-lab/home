@@ -12,4 +12,6 @@ publication: 'Annual Conference on Neural Information Processing Systems (NeurIP
 links:
 - name: URL
   url: https://arxiv.org/abs/2405.17394
+- name: Talk
+  url: https://www.youtube.com/watch?v=-CBUWqvmVVU
 ---
