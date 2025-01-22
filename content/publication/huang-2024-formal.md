@@ -16,8 +16,10 @@ date: '2024'
 publishDate: '2024-10-03T19:18:58.750866Z'
 publication_types:
 - paper-conference
-publication: '*arXiv preprint*'
+publication: 'ICLR 2025'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2410.02140
+- name: Official
+  url: https://openreview.net/forum?id=U49N5V51rU
 ---
