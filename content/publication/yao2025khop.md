@@ -16,7 +16,7 @@ date: '2025'
 publishDate: '2025-05-27T19:18:58.750866Z'
 publication_types:
 - paper-conference
-publication: '*arXiv preprint*'
+publication: 'EMNLP'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2505.17923
