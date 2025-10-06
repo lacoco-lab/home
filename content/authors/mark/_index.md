@@ -114,7 +114,7 @@ skills:
 
 
 user_groups:
-  - Researchers
+  - Alumni
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
