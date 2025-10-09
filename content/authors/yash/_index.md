@@ -119,15 +119,6 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Master's student in the Language Science and Technology department at Saarland University.  I completed my undergrad in 2020, majoring in Computer Science at Manipal Institute of Technology, India. After internships in Novartis and Samsung, I joined Glib.ai as a Machine Learning Engineer and worked there for 3 years.
-
-My research interest lies in delving deep into the workings of LLMs and finding potential areas of improvements. I believe there is potential in using linguistic tricks to inject worldly knowledge into LLMs, to lower training costs and data requirements, all the while increasing reliability and control. I am equally fascinated by the evolution and acquisition of language in humans and actively follow the latest discourse on the same.
-
-Important Links
-* Personal Website - https://www.yashsarrof.com
-* Linkedin - https://www.linkedin.com/in/yash-sarrof-094364142/
-* Github - https://github.com/yashYRS
-* Twitter - https://twitter.com/yashYRS
-* Email - yashsarrof@outlook.com
+I am a PhD student focusing on the formal analysis of large language models. I apply theoretical tools to characterize model behavior, verify their properties, and deepen our understanding of these complex systems. For more details, visit [my website](https://www.yashsarrof.com).
 
 {style="text-align: justify;"}
