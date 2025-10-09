@@ -37,6 +37,9 @@ bio: PhD student
 # Education to show in About widget
 education:
   courses:
+    - course: M. Sc. Language Science and Technology
+      institution: Saarland University
+      year: 2025
     - course: B. Tech Computer Science
       institution: Manipal Institute of Technology
       year: 2020
