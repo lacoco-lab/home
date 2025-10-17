@@ -276,7 +276,7 @@ sections:
     id: joining
     content:
       title: Joining the Lab
-      text: See [here](../joining/) for information. 
+      text: See [here](../joining/) for information on how to join our lab. 
       filters:
         folders:
           - events
