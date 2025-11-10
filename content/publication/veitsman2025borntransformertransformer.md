@@ -23,4 +23,6 @@ links:
   url: https://neurips.cc/virtual/2025/loc/san-diego/poster/118861
 - name: Paper
   url: https://openreview.net/forum?id=Huw15LqglI
+- name: Code
+  url: https://github.com/lacoco-lab/always_a_transformer
 ---
