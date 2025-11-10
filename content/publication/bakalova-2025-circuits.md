@@ -13,4 +13,8 @@ publication: 'COLM'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2504.00132
+- name: Paper
+  url: https://openreview.net/pdf/0e90ec68695e0ca24ed0d342de1795113dc8b7fa.pdf
+- name: Code
+  url: https://github.com/lacoco-lab/icl_circuits
 ---
