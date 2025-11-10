@@ -20,7 +20,7 @@ publication: 'EMNLP'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2505.17923
-- name: Official
+- name: Paper
   url: https://aclanthology.org/2025.emnlp-main.490/
 - name: Code
   url: https://github.com/ykyaol7/lm_implicit_multihop_reasoning
