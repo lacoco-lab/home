@@ -1,8 +1,8 @@
 ---
-title: 'Born a Transformer -- Always a Transformer?'
+title: 'Born a Transformer -- Always a Transformer? On the Effect of Pretraining on Architectural Abilities '
 authors:
-- Yana Veitsman
 - Mayank Jobanputra
+- Yana Veitsman
 - Yash Sarrof
 - Alexandra Bakalova
 - Vera Demberg
@@ -19,4 +19,8 @@ publication: 'NeurIPS 2025'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2505.21785
+- name: Conference
+  url: https://neurips.cc/virtual/2025/loc/san-diego/poster/118861
+- name: Paper
+  url: https://openreview.net/forum?id=Huw15LqglI
 ---
