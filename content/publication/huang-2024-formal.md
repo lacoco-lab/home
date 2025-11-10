@@ -20,6 +20,8 @@ publication: 'ICLR 2025'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2410.02140
-- name: Official
+- name: Paper
   url: https://openreview.net/forum?id=U49N5V51rU
+- name: Code
+  url: https://github.com/lacoco-lab/length_generalization
 ---
