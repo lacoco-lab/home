@@ -11,6 +11,8 @@ publication_types:
 - paper-conference
 publication: 'ICLR'
 links:
+- name: Preprint
+  url: https://arxiv.org/abs/2511.20038
 - name: Paper
   url: https://openreview.net/forum?id=FdkPOHlChS
 ---

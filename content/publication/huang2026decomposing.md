@@ -9,6 +9,8 @@ publication_types:
 - paper-conference
 publication: 'ICLR'
 links:
+- name: Preprint
+  url: https://arxiv.org/abs/2508.01916
 - name: Paper
   url: https://openreview.net/forum?id=SI2OZJuvPO
 ---
