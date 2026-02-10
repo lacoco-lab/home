@@ -19,5 +19,5 @@ publication_types:
 publication: 'arxiv'
 links:
 - name: Preprint
-  url: https://arxiv.org/abs/2506.13479
+  url: https://arxiv.org/abs/2602.08857
 ---
