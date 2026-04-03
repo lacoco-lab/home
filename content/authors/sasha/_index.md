@@ -37,6 +37,9 @@ bio: MSc Student
 # Education to show in About widget
 education:
   courses:
+    - course: M. Sc. Language Science and Technology
+      institution: Saarland University
+      year: 2025
     - course: B.Sc. Computer Science
       institution: Higher School of Economics 
       year: 2023
@@ -120,8 +123,7 @@ user_groups:
 highlight_name: true
 ---
 
-I've completed my bachelors in computer science and machine learning at HSE University in Moscow, and currently I'm studying towards a masters degree in language science and technology. My research interests lie in the area of understanding the inner workings of large language models.
-
+I am a PhD student with a background in computer science and machine learning. I am interested in understanding what and how large language models learn. For more information, visit my [personal website](https://cupalex.github.io).
 
 
 {style="text-align: justify;"}

@@ -17,7 +17,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Research Assistant
+role: "Research Assistant<br>Now: PhD Student at University of Göttingen"
 
 # Organizations/Affiliations to show in About widget
 organizations:
