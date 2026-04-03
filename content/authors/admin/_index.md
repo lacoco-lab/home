@@ -92,7 +92,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/m-hahn
+    link: https://twitter.com/mhahn29
     label: Follow me on Twitter
     display:
       header: true
