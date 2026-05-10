@@ -18,7 +18,7 @@ date: '2026'
 publishDate: '2026-03-20T13:55:29.000000Z'
 publication_types:
 - paper-conference
-publication: 'arxiv'
+publication: 'ICML'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2603.19954
