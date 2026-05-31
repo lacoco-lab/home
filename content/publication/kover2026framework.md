@@ -1,7 +1,7 @@
 ---
-title: 'A Framework for Understanding Learnability in Transformers'
+title: 'Understanding the Parameter Space Geometry of Transformers Encoding Boolean Functions'
 authors:
-- Blanka Kover
+- Blanka Kövér
 - Alexandra Butoi
 - Anej Svete
 - Michael Hahn
