@@ -20,4 +20,7 @@ abstract: 'It is an open problem whether definability in Propositional Dynamic L
   PDL, and demonstrates the viability of the proposed approach to deciding PDL in
   general.'
 url_pdf: files/lics-2018-submitted.pdf
+links:
+- name: Formalization
+  url: https://github.com/m-hahn/lics2018-wreath-products
 ---

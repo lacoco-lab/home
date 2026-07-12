@@ -17,4 +17,6 @@ links:
   url: https://icml.cc/virtual/2025/poster/45425
 - name: Code
   url: https://github.com/lacoco-lab/scratchpad_bounds
+- name: Formalization
+  url: https://github.com/m-hahn/uhat-lean
 ---
