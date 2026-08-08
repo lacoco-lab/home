@@ -1,5 +1,5 @@
 ---
-title: Barriers to Universal Reasoning With Transformers (And How to Overcome Them)
+title: 'Barriers to Universal Reasoning with Transformers (and How to Overcome them)'
 authors:
 - Oliver Kraus
 - Yash Sarrof
@@ -16,8 +16,10 @@ date: '2026'
 publishDate: '2026-04-28T16:10:37.000000Z'
 publication_types:
 - paper-conference
-publication: 'arxiv'
+publication: 'COLM'
 links:
 - name: Preprint
   url: https://arxiv.org/pdf/2604.25800
+- name: Paper
+  url: https://openreview.net/forum?id=PEC7ezuPEa
 ---
