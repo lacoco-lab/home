@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Kate McCurdy
+title: Marius Henry
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Kate
-last_name: McCurdy
+first_name: Marius
+last_name: Henry
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👽
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,19 +25,27 @@ organizations:
     url: https://saarland-informatics-campus.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Researcher
+bio: PhD student
 
 # Interests to show in About widget
 #interests:
-#  - TODO
-#  - TODO
+#- Analyzing and interpreting neural language models
+#- Knowledge representation in LLMs
+#- Unsupervised NLP
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Informatics
-      institution: University of Edinburgh
-      year: 2023
+    - course: M.Sc. Artificial Intelligence & Data Science
+      institution: Université PSL
+      year: 2026
+    - course: M.Sc. in Mathematics
+      institution: Eidgenössische Technische Hochschule Zürich (ETHZ)
+      year: 2022
+    - course: B.Sc. in Mathematics
+      institution: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+      year: 2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -111,14 +119,12 @@ skills:
 
 
 user_groups:
-  - Alumni
+  - Researchers
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Kate is a postdoctoral researcher in the lab. She recently completed her PhD in the School of Informatics, University of Edinburgh. Kate has also studied at McGill and Potsdam, worked as a researcher at Microsoft and Harvard, and founded the computational linguistics engineering team in the language-learning startup Babbel. She is broadly interested in linguistic cognition: how humans manage the trade-off between predictability and variation in language processing, and how this can be computationally modeled. Her particular focus is on speaker generalization in lower-level linguistic domains (e.g. prosody, inflectional morphology), and how these phenomena interact with higher-level syntactic and semantic processing.
-
-Personal website: https://kmccurdy.github.io/
+I am a PhD student with a mathematics background, working on the understanding of large language models. In particular, I focus on the theoretical properties of the low-level structures that steer the behavior of LLMs, such as Transformers.
 
 {style="text-align: justify;"}

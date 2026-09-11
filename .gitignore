@@ -12,3 +12,6 @@ go.sum
 
 *.swo
 *.swp
+
+.DS_Store
+**/.DS_Store
