@@ -20,4 +20,6 @@ publication: 'ICML'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2602.08857
+- name: Code
+  url: https://github.com/lacoco-lab/decompiling_transformers
 ---

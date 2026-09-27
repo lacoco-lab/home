@@ -24,7 +24,7 @@ abstract: The ordering of morphemes in a word displays well-documented regularit
   and verb inflection. Our work adds to a growing body of work suggesting that many
   ordering properties of language arise from a pressure for efficient language processing.
 links:
-- name: URL
+- name: Paper
   url: 
     https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00051/109033/Morpheme-Ordering-Across-Languages-Reflects
 - name: Code

@@ -12,5 +12,11 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP 2020)*'
-url_pdf: https://www.aclweb.org/anthology/2020.emnlp-main.156.pdf
+links:
+- name: Paper
+  url: https://www.aclweb.org/anthology/2020.emnlp-main.156.pdf
+- name: Preprint
+  url: https://arxiv.org/abs/2010.07515
+- name: Code
+  url: https://github.com/john-hewitt/dyckkm-constructions/
 ---

@@ -26,8 +26,11 @@ abstract: 'Intuitively, human readers cope easily with errors in text; typos, mi
   they contain unexpected letter combinations. It also explains the error rate effect:
   upcoming words are more difficultto predict when the context is degraded, leading
   to increased surprisal.'
-url_pdf: https://cogsci.mindmodeling.org/2019/papers/0089/0089.pdf
 links:
-- name: arXiv
+- name: Paper
+  url: https://cogsci.mindmodeling.org/2019/papers/0089/0089.pdf
+- name: Preprint
   url: https://arxiv.org/abs/1902.00595
+- name: Code
+  url: https://github.com/m-hahn/reading-noise
 ---

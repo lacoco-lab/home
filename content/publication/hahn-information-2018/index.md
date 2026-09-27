@@ -26,6 +26,8 @@ abstract: Across languages, adjectives are subject to ordering restrictions. Rec
   adjective ordering can be explained by general principles of human communication
   and language processing.
 links:
-- name: URL
+- name: Paper
   url: https://cogsci.mindmodeling.org/2018/papers/0339/index.html
+- name: Code
+  url: https://github.com/m-hahn/adjective-ordering-model.git
 ---

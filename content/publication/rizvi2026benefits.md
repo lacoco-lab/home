@@ -16,4 +16,6 @@ links:
   url: https://arxiv.org/abs/2510.13903 
 - name: Paper
   url: https://openreview.net/forum?id=0aPIVJUz5T
+- name: Code
+  url: https://github.com/michaelrizvi/coa-algorithmic
 ---

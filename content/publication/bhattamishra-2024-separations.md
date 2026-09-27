@@ -11,6 +11,6 @@ publication_types:
 - article-journal
 publication: 'Annual Conference on Neural Information Processing Systems (NeurIPS 2024)'
 links:
-- name: URL
+- name: Preprint
   url: https://arxiv.org/abs/2406.09347
 ---

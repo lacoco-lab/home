@@ -25,6 +25,8 @@ abstract: Linguistic typology generally divides synthetic languages into groups 
   that languages have characteristic levels of fusion; rather, the degree of fusion
   varies across part-of-speech within languages.
 links:
-- name: URL
+- name: Paper
   url: https://aclanthology.org/2021.emnlp-main.793
+- name: Code
+  url: https://github.com/neilrathi/morphological-fusion
 ---

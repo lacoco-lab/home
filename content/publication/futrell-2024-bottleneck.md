@@ -13,4 +13,6 @@ links:
   url: https://www.nature.com/articles/s41562-025-02336-w
 - name: Preprint
   url: https://arxiv.org/abs/2405.12109
+- name: Code
+  url: http://github.com/Futrell/infolocality
 ---

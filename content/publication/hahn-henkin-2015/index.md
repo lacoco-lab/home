@@ -24,6 +24,8 @@ abstract: The frequency of intensional and non-first-order definable operators i
   to first-order logic under Henkin semantics is a promising strategy for automated
   reasoning with natural languages.
 links:
-- name: URL
+- name: Paper
   url: http://jlm.ipipan.waw.pl/index.php/JLM/article/view/113
+- name: Code
+  url: https://github.com/m-hahn/henkin
 ---

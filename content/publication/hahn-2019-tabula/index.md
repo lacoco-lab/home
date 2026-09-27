@@ -23,6 +23,10 @@ abstract: Recurrent neural networks (RNNs) have reached striking performance in 
   extent, to track word boundaries. Our study opens the door to speculations about
   the necessity of an explicit, rigid word lexicon in language learning and usage.
 links:
-- name: URL
+- name: Paper
   url: https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00283
+- name: Preprint
+  url: https://arxiv.org/abs/1906.07285
+- name: Code
+  url: https://github.com/m-hahn/tabula-rasa-rnns
 ---

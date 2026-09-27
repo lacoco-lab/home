@@ -11,6 +11,6 @@ publication_types:
 publication: '*Proceedings of the 44th Annual Meeting of the Cognitive  Science Society
   (CogSci)*'
 links:
-- name: URL
+- name: Paper
   url: https://escholarship.org/uc/item/62b896xq
 ---

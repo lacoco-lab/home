@@ -19,6 +19,6 @@ abstract: We extend the familiar program of understanding circuit complexity in 
   for various logics and circuit classes. In particular, our approach yields a way
   to understand TC0, where the regular approach fails.
 links:
-- name: URL
+- name: Paper
   url: https://doi.org/10.1007/978-3-662-48054-0_32
 ---

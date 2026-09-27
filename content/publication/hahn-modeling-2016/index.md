@@ -20,5 +20,9 @@ abstract: When humans read text, they fixate some words and skip others. However
   We evaluate the model on the Dundee eye-tracking corpus, showing that it accurately
   predicts skipping behavior and reading times, is competitive with surprisal, and
   captures known qualitative features of human reading.
-url_pdf: https://www.aclweb.org/anthology/D16-1009.pdf
+links:
+- name: Paper
+  url: https://www.aclweb.org/anthology/D16-1009.pdf
+- name: Code
+  url: https://github.com/m-hahn/human-reading-neural-attention
 ---

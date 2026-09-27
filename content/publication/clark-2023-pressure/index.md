@@ -30,6 +30,6 @@ abstract: 'While natural languages differ widely in both canonical word order an
   with a pressure for information uniformity in the development and usage of natural
   languages.1'
 links:
-- name: URL
+- name: Paper
   url: https://doi.org/10.1162/tacl_a_00589
 ---

@@ -10,6 +10,6 @@ publication_types:
 publication: '*Frontiers in Communication*'
 doi: 10.3389/fcomm.2022.657725
 links:
-- name: URL
+- name: Paper
   url: https://www.frontiersin.org/articles/10.3389/fcomm.2022.657725/full
 ---

@@ -22,4 +22,6 @@ publication: 'ICML'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2603.19954
+- name: Code
+  url: https://github.com/coli-saar/transformers_plan_verification
 ---

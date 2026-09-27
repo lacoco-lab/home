@@ -13,4 +13,6 @@ links:
   url: https://arxiv.org/abs/2508.01916
 - name: Paper
   url: https://openreview.net/forum?id=SI2OZJuvPO
+- name: Code
+  url: https://github.com/huangxt39/SubspacePartition
 ---

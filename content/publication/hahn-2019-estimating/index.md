@@ -24,6 +24,8 @@ abstract: The Predictive Rate–Distortion curve quantifies the trade-off betwee
   Rate–Distortion curve is more useful than the usual notion of statistical complexity
   for characterizing highly complex processes such as natural language.
 links:
-- name: URL
+- name: Paper
   url: https://www.mdpi.com/1099-4300/21/7/640
+- name: Code
+  url: https://github.com/m-hahn/predictive-rate-distortion
 ---

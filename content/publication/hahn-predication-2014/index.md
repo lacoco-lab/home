@@ -17,6 +17,7 @@ abstract: We examine noun phrases and predication in Khoekhoe, a Central Khoisan
   modified by relative clauses, building on Sag's (1997) analysis of English relative
   clauses. We will then argue that, additionally, DPs may project directly to clauses,
   yielding a second predication structure.
-url_pdf: 
-  http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2014/hahn.pdf
+links:
+- name: Paper
+  url: http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2014/hahn.pdf
 ---

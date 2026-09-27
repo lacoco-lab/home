@@ -10,5 +10,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 7th Workshop on Innovative Use of NLP for Building
   Educational Applications (BEA7)*'
-url_pdf: http://aclweb.org/anthology/W12-2039.pdf
+links:
+- name: Paper
+  url: http://aclweb.org/anthology/W12-2039.pdf
 ---

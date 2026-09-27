@@ -19,8 +19,11 @@ abstract: 'It is an open problem whether definability in Propositional Dynamic L
   this class is decidable. This provides a novel nontrivial decidable subclass of
   PDL, and demonstrates the viability of the proposed approach to deciding PDL in
   general.'
-url_pdf: files/lics-2018-submitted.pdf
 links:
+- name: Paper
+  url: https://www.mhahn.info/files/lics-2018-submitted.pdf
+- name: Preprint
+  url: https://arxiv.org/abs/1911.03493
 - name: Formalization
   url: https://github.com/m-hahn/lics2018-wreath-products
 ---

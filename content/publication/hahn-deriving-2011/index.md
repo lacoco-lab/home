@@ -11,6 +11,6 @@ publication_types:
 publication: '*Proceedings of the Int. Conference on Dependency Linguistics (Depling
   2011)*'
 links:
-- name: URL
+- name: Paper
   url: http://purl.org/dm/papers/hahn-meurers-11.html
 ---

@@ -11,5 +11,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 7th International Workshop on Semantic Evaluation
   (SemEval)*'
-url_pdf: http://aclweb.org/anthology/S13-2102.pdf
+links:
+- name: Paper
+  url: http://aclweb.org/anthology/S13-2102.pdf
 ---

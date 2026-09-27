@@ -20,12 +20,13 @@ abstract: 'Transformers are emerging as the new workhorse of NLP, showing great 
   hierarchical structure in linguistics, suggesting that natural language can be approximated
   well with models that are too weak for the formal languages typically assumed in
   theoretical linguistics.'
-url_pdf: https://doi.org/10.1162/tacl_a_00306
 links:
+- name: Paper
+  url: https://doi.org/10.1162/tacl_a_00306
 - name: Preprint
   url: https://arxiv.org/abs/1906.06755
 - name: Formalization
   url: https://github.com/m-hahn/uhat-lean
 - name: Supplement
-  url: files/transformers-proof.pdf
+  url: https://www.mhahn.info/files/transformers-proof.pdf
 ---

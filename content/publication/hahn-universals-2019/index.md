@@ -20,6 +20,8 @@ abstract: 'Human languages share many grammatical properties. We show that some 
   evidence that language structure is dynamically shaped by communicative and cognitive
   pressures.'
 links:
-- name: URL
+- name: Paper
   url: https://www.pnas.org/content/early/2020/01/16/1910923117
+- name: Code
+  url: https://github.com/m-hahn/grammar-optim
 ---

@@ -8,6 +8,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 19th International Conference on Head-Driven Phrase
   Structure Grammar*'
-url_pdf: 
-  http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/hahn.pdf
+links:
+- name: Paper
+  url: http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2012/hahn.pdf
 ---

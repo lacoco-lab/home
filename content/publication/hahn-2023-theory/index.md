@@ -9,6 +9,6 @@ publication_types:
 - article-journal
 publication: '*arXiv Preprint*'
 links:
-- name: URL
+- name: Preprint
   url: https://arxiv.org/abs/2303.07971
 ---
