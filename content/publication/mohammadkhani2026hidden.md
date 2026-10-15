@@ -13,4 +13,6 @@ publication: 'Preprint'
 links:
 - name: Preprint
   url: https://arxiv.org/abs/2609.37312
+- name: Formalization
+  url: https://github.com/m-hahn/hidden-reasoning-must-leak
 ---
