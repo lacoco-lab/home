@@ -29,9 +29,9 @@ bio: PhD student
 
 # Interests to show in About widget
 interests:
-- Analyzing and interpreting neural language models
-- Knowledge representation in LLMs
-- Unsupervised NLP
+- LLM Interpretability
+- Unsupervised Learning
+- Transformer Inductive Bias
 
 
 # Education to show in About widget
@@ -122,7 +122,7 @@ user_groups:
 highlight_name: true
 ---
 
-I'm a PhD student with a background in computer science and cognitive science. I'm broadly interested in Machine Learning and Natural Language Processing. For now, my research mainly lies in interpretability of neural language models. 
+I'm a PhD student with a background in computer science and cognitive science. I'm broadly interested in Machine Learning and Natural Language Processing. My research focuses on understanding how language models work through mechanistic interpretability and theoretical analysis.
 
 Email address: xhuang@lst.uni-saarland.de
 
