@@ -125,6 +125,6 @@ user_groups:
 highlight_name: true
 ---
 
-I am a PhD student with a mathematics background, working on the understanding of large language models. In particular, I focus on the theoretical properties of the low-level structures that steer the behavior of LLMs, such as Transformers. Here is my [personal website](https://mariushenry132.github.io) for more information!
+I am a PhD student with a mathematics background, working on the understanding of large language models. In particular, I focus on the theoretical properties of the low-level structures that steer the behavior of LLMs, such as Transformers. Feel free to visit [my personal website](https://mariushenry132.github.io) for more information!
 
 {style="text-align: justify;"}
